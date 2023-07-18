@@ -262,6 +262,7 @@ summary {
   outline: 0;
   border-bottom: 1px solid rgb(75, 75, 75);
   background-color: transparent;
+  color: white;
   padding: 0.3rem;
 }
 .footer-section .footer input[type="image"] {
